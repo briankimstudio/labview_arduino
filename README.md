@@ -2,13 +2,10 @@
 
 ### Installation
 
-#### Labview
+#### LabVIEW
 
 ni.com/labview
 
-#### Arduino toolkit
+#### LabVIEW Interface for Arduino
 
-https://www.ni.com/en-us/support/downloads/tools-network/download.labview-hobbyist-toolkit.html#376574
-
-###
-
+In VI Package Manager, install LabVIEW Interface for Arduino
